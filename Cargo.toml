@@ -1,0 +1,9 @@
+[package]
+name = "test_path"
+version = "0.0.1"
+authors = ["kerwin612 <kerwin612@qq.com>"]
+description = "Test-Path"
+repository = "https://github.com/kerwin612/test_path"
+keywords = ["test-path"]
+license-file = "LICENSE"
+readme = "README.md"
